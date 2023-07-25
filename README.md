@@ -19,7 +19,7 @@ Refreshing your memories and reviewing specifically: HTML, CSS and JS.
 > - An h1 tag inside the body  
 > - An h2 tag inside the body.<br/><br/>
 
-
+No
 3. Add an image.<br/> In the same `hello.html` file, add an image related to the topic you wrote about. **Set the width to 400px**.<br/><br/>
 4. Add a link.<br/>
 Add a link to the Wikipedia page about the animal or the topic you're interested in.
